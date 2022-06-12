@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **lucas.rosilva@gmail.com**
- 
 <div align="center">
+ 
 <!--contact_social-->
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
   <a href="https://twitter.com/138_empty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/138_empty" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/lucas-silva-a12567240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-silva-a12567240/" height="30" width="40" /></a>
   <a href="https://www.instagram.com/empty138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/empty138/" height="30" width="40" /></a>
   </p>
-<!--status_languages-->   
+ 
+<!--status_languages--> 
+ 
   <a href="https://github.com/Empty138">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Empty138&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empty138&layout=compact&langs_count=7&theme=tokyonight"/>
