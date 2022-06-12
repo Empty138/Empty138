@@ -23,7 +23,8 @@
   <img align="center" alt="Empty138-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Enpty138-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Empty138-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+   
 <!--snake_animation-->   
   ![Snake animation](https://github.com/Empty138/Empty138/blob/output/github-contribution-grid-snake.svg)
-</div>
    
