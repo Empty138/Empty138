@@ -34,4 +34,3 @@
     
 <!--snake_animation-->   
   ![Snake animation](https://github.com/Empty138/Empty138/blob/output/github-contribution-grid-snake.svg)
-   
