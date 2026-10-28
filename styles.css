@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lucas Silva | Frontend Developer</title>
+    <meta
+      name="description"
+      content="Lucas Silva is a frontend developer from Brazil focused on accessible, polished web experiences."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <nav class="nav container">
+          <div class="brand">Lucas Silva</div>
+          <div class="nav-links">
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+          </div>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero container">
+          <div class="hero-copy">
+            <p class="eyebrow">Frontend Developer · Brazil</p>
+            <h1>Building clean, user-focused web experiences.</h1>
+            <p class="lead">
+              I’m Lucas Silva, a frontend developer passionate about creating interfaces that feel
+              polished, accessible, and intuitive for real users.
+            </p>
+            <div class="actions">
+              <a class="primary" href="#projects">View projects</a>
+              <a class="secondary" href="#contact">Contact me</a>
+            </div>
+            <ul class="socials" aria-label="Social media links">
+              <li><a href="https://twitter.com/138_empty" target="_blank" rel="noreferrer">Twitter</a></li>
+              <li><a href="https://www.linkedin.com/in/empty138" target="_blank" rel="noreferrer">LinkedIn</a></li>
+              <li><a href="https://www.instagram.com/empty138/" target="_blank" rel="noreferrer">Instagram</a></li>
+            </ul>
+          </div>
+
+          <aside class="profile-card" aria-label="Developer profile overview">
+            <div class="avatar">LS</div>
+            <h2>Profile</h2>
+            <ul>
+              <li><span>Focus</span><strong>Frontend UI</strong></li>
+              <li><span>Stack</span><strong>HTML, CSS, JS</strong></li>
+              <li><span>Tools</span><strong>GitHub, Figma</strong></li>
+              <li><span>Location</span><strong>Brazil</strong></li>
+            </ul>
+          </aside>
+        </section>
+
+        <section id="about" class="section container">
+          <div class="section-heading">
+            <p class="eyebrow">About</p>
+            <h2>Design-minded and detail-oriented.</h2>
+          </div>
+          <div class="about-grid">
+            <p>
+              I enjoy transforming ideas into interfaces that balance aesthetics with practical use.
+              My focus is on responsive layouts, accessible interactions, and components that are easy
+              to maintain as projects grow.
+            </p>
+            <p>
+              I like building experiences that feel modern and thoughtful, whether that means refining
+              a landing page, improving usability, or turning a concept into something real and usable.
+            </p>
+          </div>
+        </section>
+
+        <section id="skills" class="section muted">
+          <div class="container">
+            <div class="section-heading">
+              <p class="eyebrow">Skills</p>
+              <h2>Technologies I work with.</h2>
+            </div>
+            <div class="chips" aria-label="Technology skills">
+              <span>JavaScript</span>
+              <span>TypeScript</span>
+              <span>HTML5</span>
+              <span>CSS3</span>
+              <span>React</span>
+              <span>Java</span>
+              <span>GitHub</span>
+              <span>Accessibility</span>
+            </div>
+          </div>
+        </section>
+
+        <section id="projects" class="section container">
+          <div class="section-heading">
+            <p class="eyebrow">Projects</p>
+            <h2>Recent work and experiments.</h2>
+          </div>
+
+          <div class="project-grid">
+            <article class="project-card">
+              <div class="project-tag">Portfolio</div>
+              <h3>Personal portfolio site</h3>
+              <p>
+                A clean personal site focused on presenting skills, projects, and contact details in a
+                lightweight, modern layout.
+              </p>
+              <ul>
+                <li>Responsive design</li>
+                <li>Accessible structure</li>
+                <li>Static site build</li>
+              </ul>
+            </article>
+
+            <article class="project-card">
+              <div class="project-tag">Automation</div>
+              <h3>GitHub contribution animation</h3>
+              <p>
+                Automates a contribution-grid snake animation using GitHub Actions and pushes the SVG to
+                the output branch for reuse in the profile README.
+              </p>
+              <ul>
+                <li>Scheduled workflow</li>
+                <li>SVG generation</li>
+                <li>Profile visual enhancement</li>
+              </ul>
+            </article>
+
+            <article class="project-card">
+              <div class="project-tag">Practice</div>
+              <h3>Frontend UI experimentation</h3>
+              <p>
+                Focused on studying layout systems, interaction patterns, typography, and performance to
+                improve real-world building decisions.
+              </p>
+              <ul>
+                <li>UI exploration</li>
+                <li>Interaction polish</li>
+                <li>Reusable patterns</li>
+              </ul>
+            </article>
+          </div>
+        </section>
+
+        <section id="contact" class="section contact-section">
+          <div class="container contact-box">
+            <div>
+              <p class="eyebrow">Contact</p>
+              <h2>Let’s build something useful.</h2>
+            </div>
+            <div class="contact-links">
+              <a href="https://www.linkedin.com/in/empty138" target="_blank" rel="noreferrer">LinkedIn</a>
+              <a href="https://twitter.com/138_empty" target="_blank" rel="noreferrer">Twitter</a>
+              <a href="https://www.instagram.com/empty138/" target="_blank" rel="noreferrer">Instagram</a>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div class="container">
+          <p>© <span id="year"></span> Lucas Silva</p>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
