@@ -6,16 +6,22 @@
 <!--contact_social-->
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-  <a href="https://twitter.com/138_empty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/empty138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/empty138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
+    <a href="https://twitter.com/138_empty" target="_blank" rel="noopener noreferrer">
+      <img align="center" width="28" height="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/empty138" target="_blank" rel="noopener noreferrer">
+      <img align="center" width="28" height="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/empty138/" target="_blank" rel="noopener noreferrer">
+      <img align="center" width="28" height="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" />
+    </a>
   </p>
   
 <!--status_languages--> 
   
   <a href="https://github.com/Empty138">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Empty138&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empty138&layout=compact&langs_count=7&theme=tokyonight" alt="Top languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Empty138&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empty138&layout=compact&langs_count=7&theme=tokyonight" alt="Top languages"/>
   </a>
 <!--badges_languages-->   
  <div style="display: inline_block"><br>
